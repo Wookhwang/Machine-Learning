@@ -8,7 +8,7 @@ Environment
 
 library
 --------
-*matplotlib : 3.1.2\n
+*matplotlib : 3.1.2
 *numpy : 1.18.1
 *Scipy :1.4.1
 *Pandas : 0.25.3
